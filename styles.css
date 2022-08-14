@@ -82,3 +82,11 @@
     font-size: 12px;
     text-align: right;
    }
+
+   @media(max-width:490px){
+    
+    body{
+        padding: 10px;
+    }
+
+   }
